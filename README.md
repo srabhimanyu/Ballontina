@@ -1,9 +1,11 @@
 
 # Ballontina
 
-It  is  my  first  year  Data Structure Project
+It  is  my  first  year  Data Structure Project.
+I have made a game name BALLON TINA using C++.
+
 We have  coin and ballon we have to collect the coin  with the help of ballon
-and  if  the arrow hits the ballon  Game is  over. We have  a  score board infornt  of  us.
+and  if  the arrow hits the ballon  Game is  over (Make sure you are not bursted by the arrow). We have  a  score board infornt  of  us.
 
 
 <img width="960" alt="coverpage" src="https://user-images.githubusercontent.com/11159221/89199244-e8db8780-d5cb-11ea-99c0-5098e6c11b23.png">
